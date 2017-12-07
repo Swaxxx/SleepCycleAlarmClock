@@ -1,0 +1,5 @@
+VCC GND -> alimentation IN
+OUT -> alimentation OUT
+
+//SDA (SERIAL DATA LINE)
+I2C_SDA0 = P0_0

@@ -1,0 +1,6 @@
+The longest PIN of the LED is the +
+The shortest PIN of the LED is the -
+- Plug a cable in each line in the breadboard
+- Plug the blue cable (positiv) on the GND
+- Plug the red cable (negativ) on the LED PIN
+- In the program, use DigitalOut on the PIN

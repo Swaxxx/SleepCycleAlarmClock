@@ -1,0 +1,10 @@
+In the code :
+- Serial pc(USBTX, USBRX);
+  pc.baud(9600);
+  pc.printf("<texte>\r\n");
+
+In the console :
+- sudo python -m serial.tools.miniterm
+
+Note :
+- Don't plug on USB3, because it's too fast

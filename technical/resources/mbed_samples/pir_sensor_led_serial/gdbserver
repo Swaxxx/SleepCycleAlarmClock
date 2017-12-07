@@ -1,0 +1,2 @@
+#!/bin/sh
+~/.platformio/packages/tool-openocd/bin/openocd -f "interface/stlink-v2.cfg" -f "target/nrf51.cfg" 
